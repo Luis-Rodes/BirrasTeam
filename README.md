@@ -2,7 +2,7 @@
 
 Equipo de Amigos, Padel y Cervecitas
 
-## Sbre Nosotros
+## Sobre Nosotros
 
 Poco que contar, apuntate y nos vemos en las pistas
 
