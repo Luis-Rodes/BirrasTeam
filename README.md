@@ -1,14 +1,14 @@
-# BirrasTeam
+# Birras Team
 
-This template should help get you started developing with Vue 3 in Vite.
+Equipo de Amigos, Padel y Cervecitas
 
-## Recommended IDE Setup
+## Sbre Nosotros
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Poco que contar, apuntate y nos vemos en las pistas
 
-## Customize configuration
+## Plantilla de Jugadores
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+No muchos
 
 ## Project Setup
 
