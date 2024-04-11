@@ -11,9 +11,13 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      You’ve successfully created a project with
-      <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
+      Proyecto creado para Birras Team Padel
+      <p><router-link :to="'/PlantillaJugadores.vue/'" >Plantilla jugadores</router-link></p>
+      <p><router-link :to="'/Welcomeitem.vue/'" >Enlace2</router-link></p>
+      <p><router-link :to="'/'" >Enlace Principal</router-link></p>
+      
+      <a href="#" target="_blank" rel="noopener">Sobre Nosotros</a> +
+      <a href="#" target="_blank" rel="noopener">Plantilla de Jugadores</a>.
     </h3>
   </div>
 </template>

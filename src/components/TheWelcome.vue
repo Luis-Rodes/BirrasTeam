@@ -12,42 +12,40 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #icon>
       <DocumentationIcon />
     </template>
-    <template #heading>Documentation</template>
+    <template #heading>Sobre Nosotros</template>
 
-    Vue’s
-    <a href="https://vuejs.org/" target="_blank" rel="noopener">official documentation</a>
-    provides you with all information you need to get started.
+    Birras Team
+    <a href="#" target="_blank" rel="noopener">Plantilla de </a>
+    amigos y jugadores de padel.
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <ToolingIcon />
     </template>
-    <template #heading>Tooling</template>
+    <template #heading>Palmares</template>
 
-    This project is served and bundled with
-    <a href="https://vitejs.dev/guide/features.html" target="_blank" rel="noopener">Vite</a>. The
-    recommended IDE setup is
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VSCode</a> +
-    <a href="https://github.com/johnsoncodehk/volar" target="_blank" rel="noopener">Volar</a>. If
-    you need to test your components and web pages, check out
-    <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a> and
-    <a href="https://on.cypress.io/component" target="_blank" rel="noopener"
-      >Cypress Component Testing</a
-    >.
+    Aquí podras ver el palmares del equipo.
+    <a href="#" target="_blank" rel="noopener">Palmares</a>. 
+    Y buscar por jugadores del equipo
+    <a href="#" target="_blank" rel="noopener">Más sobre el Capitan</a> +
+    <a href="#" target="_blank" rel="noopener">Jugadores</a>. Además de .....
+    <a href="#" target="_blank" rel="noopener">Curiosidades</a> y
+    <a href="#" target="_blank" rel="noopener">
+      Proximos torneos que disputaremos</a>.
 
     <br />
 
-    More instructions are available in <code>README.md</code>.
+    Más instrucciones sobre el código en <code>README.md</code>.
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <EcosystemIcon />
     </template>
-    <template #heading>Ecosystem</template>
+    <template #heading>Entrenos</template>
 
-    Get official tools and libraries for your project:
+    Solemos entrenar y disputar partidos entre nosotros:
     <a href="https://pinia.vuejs.org/" target="_blank" rel="noopener">Pinia</a>,
     <a href="https://router.vuejs.org/" target="_blank" rel="noopener">Vue Router</a>,
     <a href="https://test-utils.vuejs.org/" target="_blank" rel="noopener">Vue Test Utils</a>, and
