@@ -16,14 +16,18 @@ No muchos
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compilar para ver en el navegador
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compilar para web
 
 ```sh
 npm run build
+```
+### Pagina gitHub
+```sh
+https://luis-rodes.github.io/BirrasTeam/
 ```
