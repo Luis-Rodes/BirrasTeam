@@ -5,6 +5,7 @@ defineProps({
     required: true
   }
 })
+import SobreNosotros from './SobreNosotros.vue'
 </script>
 
 <template>
@@ -39,6 +40,7 @@ defineProps({
     </div>
     </div>
   </div>
+  <SobreNosotros />
 </template>
 
 <!-- <style scoped>

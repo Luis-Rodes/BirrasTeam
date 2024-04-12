@@ -10,7 +10,8 @@ import Inicio from './components/Inicio.vue'
       <Inicio msg="Birras Team" />
     </div>
   </header>
-  <router-view></router-view>
+  <!--<router-view></router-view> -->
+  <p class="text-center px-4">Pagina inicio </p>
   
  
 </template>

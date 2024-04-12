@@ -9,7 +9,7 @@ defineProps({
 </script>
 <template>
   <div>
-    <p>
+    <p class="text-center px-4">
       Algo de histori sobre nosotros
     </p>
   </div>
