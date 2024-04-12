@@ -1,22 +1,21 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
-import PlantillaJugadores from './components/PlantillaJugadores.vue'
+import Inicio from './components/Inicio.vue'
 </script>
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="./assets/BirrasTeam.jpg" width="125" height="125" />
+    <img alt="Birras Team logo" class="rounded  mt-5 ms-5" src="./assets/BirrasTeam.jpg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="Birras Team" />
+      <Inicio msg="Birras Team" />
     </div>
   </header>
   <router-view></router-view>
+  
  
 </template>
 
-<style scoped>
+<!-- <style scoped>
 header {
   line-height: 1.5;
 }
@@ -44,3 +43,4 @@ header {
   }
 }
 </style>
+ -->

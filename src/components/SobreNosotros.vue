@@ -1,4 +1,22 @@
 <script setup>
+defineProps({
+  msg: {
+    type: String,
+    required: true
+  }
+})
+
+</script>
+<template>
+  <div>
+    <p>
+      Algo de histori sobre nosotros
+    </p>
+  </div>
+</template>
+
+
+<!-- <script setup>
 import WelcomeItem from './WelcomeItem.vue'
 import DocumentationIcon from './icons/IconDocumentation.vue'
 import ToolingIcon from './icons/IconTooling.vue'
@@ -84,3 +102,4 @@ import SupportIcon from './icons/IconSupport.vue'
     <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
   </WelcomeItem>
 </template>
+ -->

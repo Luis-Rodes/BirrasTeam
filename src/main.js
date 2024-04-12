@@ -1,17 +1,17 @@
-import './assets/main.css'
+// import './assets/main.css'
 
 import { createApp } from 'vue'
 // Importación de la librería 'vue-router'
 import * as VueRouter from 'vue-router';
 import App from './App.vue'
 //Enlaces para las paginas
-import PaginaPrincipal from './components/HelloWorld.vue'
-import PaginaEquipo from './components/TheWelcome.vue'
+import PaginaPrincipal from './components/Inicio.vue'
+import SobreNosotros from './components/SobreNosotros.vue'
 import PlantillaJugadores from './components/PlantillaJugadores.vue'
 //Rutas de la App
 const rutas = [
     {path: '/', component: PaginaPrincipal },
-    {path: '/TheWelcome/' , component: PaginaEquipo},
+    {path: '/components/SobreNosotros/' , component: SobreNosotros},
     {path: '/PlantillaJugadores/' , component: PlantillaJugadores}
 ]
 
