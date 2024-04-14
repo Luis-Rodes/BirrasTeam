@@ -40,7 +40,7 @@ import SobreNosotros from './SobreNosotros.vue'
     </div>
     </div>
   </div>
-  <SobreNosotros />
+  <!--<SobreNosotros /> -->
 </template>
 
 <!-- <style scoped>

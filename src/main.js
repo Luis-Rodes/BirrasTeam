@@ -12,7 +12,7 @@ import PlantillaJugadores from './components/PlantillaJugadores.vue'
 const rutas = [
     {path: '/', component: PaginaPrincipal },
     {path: '/components/SobreNosotros/' , component: SobreNosotros},
-    {path: '/PlantillaJugadores/' , component: PlantillaJugadores}
+    {path: '/components/PlantillaJugadores/' , component: PlantillaJugadores}
 ]
 
 // Creación del router
