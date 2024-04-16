@@ -3,17 +3,25 @@ defineProps({
   msg: {
     type: String,
     required: true
-  }
+  },
+  name: 'SobreNosotros'
 })
+
 
 </script>
 <template>
   <div>
     <p class="text-center px-4">
-      Algo de histori sobre nosotros
-    </p>
+      Algo de historia sobre nosotros
+    <div class="spinner-border text-danger" role="status">
+      <span class="visually-hidden">Loading...</span>
+    </div>
+    
+  </p>
   </div>
 </template>
+
+
 
 
 <!-- <script setup>

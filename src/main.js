@@ -8,11 +8,13 @@ import App from './App.vue'
 import PaginaPrincipal from './components/Inicio.vue'
 import SobreNosotros from './components/SobreNosotros.vue'
 import PlantillaJugadores from './components/PlantillaJugadores.vue'
+import Palmares from './components/Palmares.vue'
 //Rutas de la App
 const rutas = [
     {path: '/', component: PaginaPrincipal },
-    {path: '/components/SobreNosotros/' , component: SobreNosotros},
-    {path: '/components/PlantillaJugadores/' , component: PlantillaJugadores}
+    {path: '/SobreNosotros/' , component: SobreNosotros},
+    {path: '/PlantillaJugadores/' , component: PlantillaJugadores},
+    {path: '/Palmares/' , component: Palmares}
 ]
 
 // Creación del router

@@ -1,46 +1,26 @@
 <script setup>
-defineProps({
+/* defineProps({
   msg: {
     type: String,
     required: true
   }
-})
-import SobreNosotros from './SobreNosotros.vue'
+}) */
+// import SobreNosotros from './SobreNosotros.vue'
 </script>
 
 <template>
-  <div class="container text-center px-4">
-    <div class="row align-items-start gx-5">
-      <div class="col px-3">
   
-    <h1 class="green">{{ msg }}</h1>
+  <div class="container text-center px-4">
+    <div class="spinner-border text-danger" role="status">
+      <span class="visually-hidden">Loading...</span>
     </div>
-    <div class="col px-3">
-    <h3>
-      Proyecto creado para Birras Team Padel
-      <nav class="navbar navbar-expand-lg bg-body-tertiary">
-        <div class="container-fluid">
-      
-          <a class="navbar-brand"><router-link :to="'/'" >Inicio</router-link></a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav">
-      
-      <a class="nav-link active"><router-link :to="'/PlantillaJugadores.vue/'" >Plantilla jugadores</router-link></a>
-      <a class="nav-link "><router-link :to="'/SobreNosotros.vue/'" >Sobre Nosotros</router-link></a>
-      </div>
-      </div>
-      </div>
-      </nav>
-      <!-- <a href="#" target="_blank" rel="noopener">Sobre Nosotros</a> +
-      <a href="#" target="_blank" rel="noopener">Plantilla de Jugadores</a>. -->
-    </h3>
-    </div>
-    </div>
+    
+  <p> Pagina de inicio  inicio.vue</p>
+  <p>Poner intro del equipo</p>
+  <p>Enlaces a los trofeos</p>
   </div>
   <!--<SobreNosotros /> -->
+  <!-- <router-view></router-view> -->
 </template>
 
 <!-- <style scoped>
