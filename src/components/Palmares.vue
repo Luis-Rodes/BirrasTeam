@@ -1,3 +1,7 @@
+
+<script setup>
+
+</script>
 <template>
   <div class="container text-center px-4">
   <div id="carouselExampleCaptions" class="carousel carousel slide mt-5">
