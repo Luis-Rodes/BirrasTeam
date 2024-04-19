@@ -12,7 +12,7 @@ import Palmares from './components/Palmares.vue'
 const rutas = [
     {path: '/', component: PaginaPrincipal },
     {path: '/SobreNosotros/' , component: SobreNosotros},
-    {path: '/PlantillaJugadores/' , component: PlantillaJugadores},
+    {path: '/PlantillaJugadores.vue/' , component: PlantillaJugadores},
     {path: '/Palmares/' , component: Palmares}
 ]
 
