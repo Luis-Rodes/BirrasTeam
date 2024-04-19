@@ -1,4 +1,3 @@
-// import './assets/main.css'
 
 import { createApp } from 'vue'
 // Importación de la librería 'vue-router'

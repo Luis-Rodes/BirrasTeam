@@ -1,12 +1,4 @@
 <script setup>
-defineProps({
-  msg: {
-    type: String,
-    required: true
-  },
-  name: 'SobreNosotros'
-})
-
 
 </script>
 <template>
