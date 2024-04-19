@@ -14,7 +14,7 @@
     </div>
     
     <div class="col px-3">
-      <!-- <h1 class="green">{{ msg }}</h1> -->
+     
       <h1 class="mt-3">Birras Team Pádel</h1>
       </div>
       <div class="col px-3">
@@ -33,8 +33,7 @@
         
         
         </nav>
-        <!-- <a href="#" target="_blank" rel="noopener">Sobre Nosotros</a> +
-        <a href="#" target="_blank" rel="noopener">Plantilla de Jugadores</a>. -->
+        
       
       </div>
       </div>
