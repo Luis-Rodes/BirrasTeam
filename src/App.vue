@@ -26,7 +26,7 @@
             
             
         
-        <a class=" navbar-brand nav-link active"><router-link :to="'/PlantillaJugadores'" >Plantilla jugadores</router-link></a>
+        <a class="navbar-brand nav-link active"><router-link :to="'/PlantillaDeJugadores'" >Plantilla De Jugadores</router-link></a>
         <a class="navbar-brand nav-link "><router-link :to="'/SobreNosotros'" >Sobre Nosotros</router-link></a>
         <a class="navbar-brand nav-link "><router-link :to="'/Palmares'" >Palmares</router-link></a>
         </div>

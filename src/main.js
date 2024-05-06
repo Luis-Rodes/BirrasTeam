@@ -6,13 +6,13 @@ import App from './App.vue'
 //Enlaces para las paginas
 import PaginaPrincipal from './components/Inicio.vue'
 import SobreNosotros from './components/SobreNosotros.vue'
-import PlantillaJugadores from './components/PlantillaJugadores.vue'
+import PlantillaJugadores from './components/PlantillaDeJugadores.vue'
 import Palmares from './components/Palmares.vue'
 //Rutas de la App
 const rutas = [
     {path: '/', component: PaginaPrincipal },
     {path: '/SobreNosotros/' , component: SobreNosotros},
-    {path: '/PlantillaJugadores/' , component: PlantillaJugadores},
+    {path: '/PlantillaDeJugadores/' , component: PlantillaJugadores},
     {path: '/Palmares/' , component: Palmares}
 ]
 
