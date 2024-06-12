@@ -9,16 +9,16 @@
           </div>
           <div class="row row-cols-1 row-cols-md-3 mx-3 g-4">
             <div class="col">
-              <div class="card" style="width: 25rem;">
-                <img src="../assets/Crash.jpg" class="card-img-top" alt="...">
+              <div class="card text-center" style="width: 25rem;">
+                <img src="../assets/yo.jpg" class="card-img-top" alt="Luis Rodes">
                 <div class="card-body">
-                  <h5 class="card-title">Card title</h5>
-                  <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <h5 class="card-title">Luis Rodes</h5>
+                  <p class="card-text">Jugador de derecha intentando que no salgo mi lado de jugador de reves y Capitan del equipo</p>
                 </div>
               </div>
             </div>
             <div class="col">
-              <div class="card h-100">
+              <div class="card text-center" style="width: 25rem;">
                 <img src="../assets/Crash.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Card title</h5>
@@ -27,7 +27,7 @@
               </div>
             </div>
             <div class="col">
-              <div class="card h-100">
+              <div class="card text-center" style="width: 25rem;">
                 <img src="../assets/Crash.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Card title</h5>
@@ -36,7 +36,7 @@
               </div>
             </div>
             <div class="col">
-              <div class="card h-100">
+              <div class="card text-center" style="width: 25rem;">
                 <img src="../assets/Crash.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Card title</h5>
