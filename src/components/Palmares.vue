@@ -14,7 +14,7 @@
     </div>
     <div class="carousel-inner px-5 mb-5">
       <div class="carousel-item active" data-bs-interval="10000">
-        <img src="../../src/assets/TrofeoMatch.JPG" class="d-block 50vh" alt="...">
+        <img src="../src/assets/TrofeoMatch.JPG" class="d-block 50vh" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>Liga Match</h5>
           <p>Subcampeones de la liga por parejas.</p>
