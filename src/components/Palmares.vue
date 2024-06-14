@@ -14,35 +14,35 @@
     </div>
     <div class="carousel-inner px-5 mb-5">
       <div class="carousel-item active" data-bs-interval="10000">
-        <img src="../../src/assets/BirrasTeamCarrusel.jpg" class="d-block w-100" alt="...">
+        <img src="../../src/assets/TrofeoMatch.JPG" class="d-block 50vh" alt="...">
         <div class="carousel-caption d-none d-md-block">
-          <h5>First slide label</h5>
-          <p>Some representative placeholder content for the first slide.</p>
+          <h5>Liga Match</h5>
+          <p>Subcampeones de la liga por parejas.</p>
         </div>
       </div>
       <div class="carousel-item" data-bs-interval="2000">
-        <img src="../../src/assets/BirrasTeamCarrusel.jpg" class="d-block w-100" alt="...">
+        <img src="../../src/assets/BirrasTeamCarrusel.jpg" class="d-block 50vh" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>Second slide label</h5>
           <p>Some representative placeholder content for the second slide.</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="../../src/assets/BirrasTeamCarrusel.jpg" class="d-block w-100" alt="...">
+        <img src="../../src/assets/BirrasTeamCarrusel.jpg" class="d-block 50vh" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>Third slide label</h5>
           <p>Some representative placeholder content for the third slide.</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="../../src/assets/BirrasTeamCarrusel.jpg" class="d-block w-100 " alt="...">
+        <img src="../../src/assets/BirrasTeamCarrusel.jpg" class="d-block 50vh " alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>Third slide label</h5>
           <p>Some representative placeholder content for the third slide.</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="../../src/assets/BirrasTeamCarrusel.jpg" class="d-block w-100" alt="...">
+        <img src="../../src/assets/BirrasTeamCarrusel.jpg" class="d-block 50vh" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>Third slide label</h5>
           <p>Some representative placeholder content for the third slide.</p>
@@ -62,6 +62,13 @@
 </template>
 
 <style scoped>
+.carousel-inner img {
+  width: 100%;
+  max-height: 700px;
+}
 
+.carousel-inner{
+height: 750px;
+}
 </style>
  

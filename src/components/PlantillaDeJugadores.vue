@@ -4,8 +4,9 @@
 
 <template>
     <div class="greetings">
-        
-          <p class="text-center px-4"> Aqui la plantilla de jugadores en cards de bootstrap</p>
+      <div class="contenido" oncontextmenu='return false' ondragstart='return false'
+      onmousedown='return false' onselectstart='return false'>
+          <p class="text-center px-4"> Plantilla Jugadores Birras Team</p>
           </div>
           <div class="row row-cols-1 row-cols-md-3 mx-3 g-4">
             <div class="col">
@@ -43,6 +44,7 @@
                   <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                 </div>
               </div>
+            </div>
             </div>
           </div>
 </template>
