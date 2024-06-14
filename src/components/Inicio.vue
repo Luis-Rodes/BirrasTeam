@@ -16,7 +16,7 @@
     </p>
   </div>
   <div class="clearfix">
-    <img src="../assets/TrofeoMatch.JPG" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Foto">
+    <img src="../assets/TrofeoMatch.jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="Foto">
   
     <p>
       En esta foto vemos al capitán con el trofeo que nos acredito subcampeones de la liga por parejas dobles.
