@@ -21,7 +21,7 @@
       </div>
       <div class="col">
         
-    <img src="../assets/BullPadel-2.JPEG" class="rounded float-end" alt="...">
+    <img src="../assets/BullPadel-2.jpg" class="rounded float-end" alt="...">
       </div>
     </div>
   </div>
