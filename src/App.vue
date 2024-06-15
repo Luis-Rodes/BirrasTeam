@@ -5,8 +5,8 @@
 
 <template>
   <header>
-    <div class="container text-center px-4">
-      <div class="row align-items-start gx-5">
+    <div class="container text-center">
+      <div class="row align-items-start gx-3">
        <div class="col px-3">
           <img alt="Birras Team logo" class="rounded  mt-2 ms-3" src="./assets/BirrasTeam.jpg" width="125" height="125" />
 

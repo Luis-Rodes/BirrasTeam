@@ -4,7 +4,7 @@
 
 <template>
   
-  <div class="container text-center px-4">
+  <div class="container text-center">
     
   <div class="jumbotron">
     <h1 class="display-4">Birras Team!!!!!!!!!!!!!!</h1>
