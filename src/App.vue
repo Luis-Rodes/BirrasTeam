@@ -25,13 +25,13 @@
         <nav class="navbar navbar-expand-lg bg-transparent-tertiary mt-3 link-dark">
           <div class="container-fluid">
         
-            <a class="navbar-brand link-dark"><router-link :to="'/'" >Inicio</router-link></a>
+            <a class="navbar-brand link-success"><router-link :to="'/'" >Inicio</router-link></a>
             
             
         
-        <a class="navbar-brand nav-link link-dark"><router-link :to="'/PlantillaDeJugadores'" >Plantilla De Jugadores</router-link></a>
-        <a class="navbar-brand nav-link link-dark"><router-link :to="'/SobreNosotros'" >Sobre Nosotros</router-link></a>
-        <a class="navbar-brand nav-link link-dark"><router-link :to="'/Palmares'" >Palmares</router-link></a>
+        <a class="navbar-brand nav-link link-success"><router-link :to="'/PlantillaDeJugadores'" >Plantilla De Jugadores</router-link></a>
+        <a class="navbar-brand nav-link link-success"><router-link :to="'/SobreNosotros'" >Sobre Nosotros</router-link></a>
+        <a class="navbar-brand nav-link link-success"><router-link :to="'/Palmares'" >Palmares</router-link></a>
         </div>
         
         
