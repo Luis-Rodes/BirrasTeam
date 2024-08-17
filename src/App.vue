@@ -18,7 +18,7 @@
     
     <div class="col px-3">
      
-      <h1 class="mt-3 display-1 text-dark">Birras Team Pádel</h1>
+      <h1 class="mt-3 display-1 text-danger">Birras Team Pádel</h1>
       </div>
       <div class="col px-3">
       
