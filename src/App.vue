@@ -22,7 +22,7 @@
       </div>
       <div class="col px-3">
       
-        <nav class="navbar navbar-expand-lg bg-transparent-tertiary mt-3 link-dark">
+        <nav class="navbar navbar-expand-lg bg-transparent-tertiary mt-3 link-success">
           <div class="container-fluid">
         
             <a class="navbar-brand link-success"><router-link :to="'/'" >Inicio</router-link></a>
