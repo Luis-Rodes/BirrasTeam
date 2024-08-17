@@ -5,7 +5,7 @@
 
 <template>
   <header>
-    <div class="container-fluid text-center bg-image" style="background-image: url('../src/assets/Match-23.jpg');
+    <div class="container-fluid text-center bg-image" style="background-image: url('../src/assets/Castillo.jpg');
             width:auto">
       
      
