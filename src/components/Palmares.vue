@@ -21,17 +21,17 @@
         </div>
       </div>
       <div class="carousel-item" data-bs-interval="2000">
-        <img src="../../src/assets/BirrasTeamCarrusel.jpg" class="d-block 50vh" alt="...">
+        <img src="../../src/assets/Match-23.jpg" class="d-block 50vh" alt="...">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Second slide label</h5>
-          <p>Some representative placeholder content for the second slide.</p>
+          <h5>Liga Match por equipos</h5>
+          <p>Semifinalistas de la liga de invierno 22-23.</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="../../src/assets/BirrasTeamCarrusel.jpg" class="d-block 50vh" alt="...">
+        <img src="../../src/assets/Bullpadel-1.jpg" class="d-block 50vh" alt="...">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Third slide label</h5>
-          <p>Some representative placeholder content for the third slide.</p>
+          <h5>Liga BullPadel por equipos</h5>
+          <p>Caimos en Octavos desde la Previa, gran torneo.</p>
         </div>
       </div>
       <div class="carousel-item">
